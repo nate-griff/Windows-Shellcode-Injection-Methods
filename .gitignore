@@ -1,0 +1,152 @@
+### ============================================================
+### Windows System Files
+### ============================================================
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+*.stackdump
+[Dd]esktop.ini
+*.lnk
+
+### ============================================================
+### Visual Studio Project Files
+### ============================================================
+# User-specific files
+*.vcxproj.user
+*.vcxproj.filters
+*.vcxproj
+*.suo
+*.user
+*.userosscache
+*.userprefs
+*.sln.docstates
+
+# Visual Studio cache/options directory
+.vs/
+*.VC.db
+*.VC.opendb
+*.VC.VC.opendb
+
+# Solution files (optional — comment out if you want to keep .sln)
+# *.sln
+
+# VS Code
+.vscode/
+
+### ============================================================
+### C / C++ Build Artifacts
+### ============================================================
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Static Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Compiled Dynamic Libraries
+*.dll
+*.so
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Linker/debug artifacts
+*.ilk
+*.pdb
+*.iobj
+*.ipdb
+*.map
+
+# MSBuild artifacts
+*.tlog
+*.lastbuildstate
+*.unsuccessfulbuild
+
+### ============================================================
+### Build Output Directories
+### ============================================================
+[Bb]in/
+[Oo]bj/
+[Bb]uild/
+[Oo]ut/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Dd]ebug/
+[Rr]elease/
+[Rr]el/
+[Dd]bg/
+
+### ============================================================
+### CMake
+### ============================================================
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CMakeScripts/
+Testing/
+Makefile
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+
+### ============================================================
+### NuGet
+### ============================================================
+*.nupkg
+*.snupkg
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+*.nuget.props
+*.nuget.targets
+
+### ============================================================
+### Crash Dumps & Logs
+### ============================================================
+*.mdmp
+*.dmp
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+### ============================================================
+### JetBrains (Rider / CLion)
+### ============================================================
+.idea/
+*.sln.iml
+
+### ============================================================
+### Miscellaneous
+### ============================================================
+.env
+.env.local
+*.cache
+*.ncb
+*.sdf
+*.opendb
+*.ipch
